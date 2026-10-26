@@ -1,0 +1,382 @@
+{
+  "myths": {
+    "G": "Griega",
+    "R": "Romana",
+    "N": "Nórdica",
+    "E": "Egipcia"
+  },
+  "tieOrder": [
+    "G",
+    "R",
+    "N",
+    "E"
+  ],
+  "questions": [
+    {
+      "title": "Mascota elegida",
+      "options": [
+        {
+          "label": "Gato siamés",
+          "scores": {
+            "E": 1
+          }
+        },
+        {
+          "label": "Husky",
+          "scores": {
+            "R": 1
+          }
+        },
+        {
+          "label": "Golden Retriever",
+          "scores": {
+            "G": 1
+          }
+        },
+        {
+          "label": "San Bernardo",
+          "scores": {
+            "N": 2
+          }
+        },
+        {
+          "label": "Gato naranja",
+          "scores": {
+            "G": 2
+          }
+        },
+        {
+          "label": "Galgo",
+          "scores": {
+            "E": 2
+          }
+        },
+        {
+          "label": "Fox Terrier",
+          "scores": {
+            "N": 1
+          }
+        },
+        {
+          "label": "Ovejero alemán",
+          "scores": {
+            "R": 2
+          }
+        }
+      ]
+    },
+    {
+      "title": "Animal identificado",
+      "options": [
+        {
+          "label": "Delfín",
+          "scores": {
+            "G": 1,
+            "E": 1
+          }
+        },
+        {
+          "label": "Caballo",
+          "scores": {
+            "G": 1,
+            "R": 1
+          }
+        },
+        {
+          "label": "Conejo",
+          "scores": {
+            "N": 1
+          }
+        },
+        {
+          "label": "Serpiente",
+          "scores": {
+            "E": 1,
+            "N": 1
+          }
+        },
+        {
+          "label": "Ciervo",
+          "scores": {
+            "N": 1,
+            "R": 1
+          }
+        },
+        {
+          "label": "León",
+          "scores": {
+            "E": 1
+          }
+        },
+        {
+          "label": "Águila",
+          "scores": {
+            "R": 1,
+            "G": 1
+          }
+        }
+      ]
+    },
+    {
+      "title": "Arma",
+      "options": [
+        {
+          "label": "Espada",
+          "scores": {
+            "G": 1,
+            "R": 1
+          }
+        },
+        {
+          "label": "Lanza",
+          "scores": {
+            "R": 1,
+            "E": 1
+          }
+        },
+        {
+          "label": "Hacha",
+          "scores": {
+            "N": 2
+          }
+        },
+        {
+          "label": "Arco y flecha",
+          "scores": {
+            "N": 1,
+            "G": 1
+          }
+        },
+        {
+          "label": "Martillo",
+          "scores": {
+            "N": 1
+          }
+        },
+        {
+          "label": "Maza",
+          "scores": {
+            "E": 2
+          }
+        },
+        {
+          "label": "Daga",
+          "scores": {
+            "G": 1
+          }
+        },
+        {
+          "label": "Escudo",
+          "scores": {
+            "R": 2
+          }
+        }
+      ]
+    },
+    {
+      "title": "Personaje",
+      "options": [
+        {
+          "label": "Obi-Wan",
+          "scores": {
+            "R": 1
+          }
+        },
+        {
+          "label": "Gimli",
+          "scores": {
+            "N": 1
+          }
+        },
+        {
+          "label": "Peeta",
+          "scores": {
+            "G": 1
+          }
+        },
+        {
+          "label": "Hawkeye",
+          "scores": {
+            "E": 1
+          }
+        },
+        {
+          "label": "Sr. Spock",
+          "scores": {
+            "N": 1
+          }
+        },
+        {
+          "label": "Burro",
+          "scores": {
+            "G": 1
+          }
+        },
+        {
+          "label": "Poison Ivy",
+          "scores": {
+            "E": 1
+          }
+        }
+      ]
+    },
+    {
+      "title": "Villano que enfrentarías",
+      "options": [
+        {
+          "label": "Palpatine",
+          "scores": {
+            "R": 2
+          }
+        },
+        {
+          "label": "Voldemort",
+          "scores": {
+            "G": 1
+          }
+        },
+        {
+          "label": "Presidente Snow",
+          "scores": {
+            "N": 1
+          }
+        },
+        {
+          "label": "Sauron",
+          "scores": {
+            "N": 1
+          }
+        },
+        {
+          "label": "Reina Cersei",
+          "scores": {
+            "E": 1
+          }
+        },
+        {
+          "label": "Jaffar",
+          "scores": {
+            "E": 1
+          }
+        },
+        {
+          "label": "Ultron",
+          "scores": {
+            "G": 1
+          }
+        },
+        {
+          "label": "Lex Luthor",
+          "scores": {
+            "R": 1
+          }
+        }
+      ]
+    },
+    {
+      "title": "Juego que preferís",
+      "options": [
+        {
+          "label": "Piedra, papel o tijera",
+          "scores": {
+            "G": 1
+          }
+        },
+        {
+          "label": "Dígalo con mímica",
+          "scores": {
+            "G": 1
+          }
+        },
+        {
+          "label": "Tutti-Frutti",
+          "scores": {
+            "R": 1
+          }
+        },
+        {
+          "label": "Juegos de manos",
+          "scores": {
+            "N": 1
+          }
+        },
+        {
+          "label": "Adivinanzas",
+          "scores": {
+            "E": 1
+          }
+        },
+        {
+          "label": "Truco",
+          "scores": {
+            "N": 1
+          }
+        },
+        {
+          "label": "Generala (dados)",
+          "scores": {
+            "R": 1
+          }
+        }
+      ]
+    },
+    {
+      "title": "Ante un conflicto",
+      "options": [
+        {
+          "label": "Hago lo que tengo que hacer",
+          "scores": {
+            "R": 1
+          }
+        },
+        {
+          "label": "Improviso",
+          "scores": {
+            "G": 1
+          }
+        },
+        {
+          "label": "Ataco",
+          "scores": {
+            "N": 1
+          }
+        },
+        {
+          "label": "Busco opciones",
+          "scores": {
+            "E": 1
+          }
+        }
+      ]
+    },
+    {
+      "title": "Un punto cardinal",
+      "options": [
+        {
+          "label": "Norte",
+          "scores": {
+            "N": 1
+          }
+        },
+        {
+          "label": "Sur",
+          "scores": {
+            "E": 1
+          }
+        },
+        {
+          "label": "Este",
+          "scores": {
+            "R": 1
+          }
+        },
+        {
+          "label": "Oeste",
+          "scores": {
+            "G": 1
+          }
+        }
+      ]
+    }
+  ]
+}
